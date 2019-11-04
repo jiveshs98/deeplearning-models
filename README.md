@@ -177,9 +177,11 @@ A collection of various deep learning architectures, models, and tips for Tensor
 ## Graph Neural Networks (GNNs)
 
 - Most Basic Graph Neural Network with Gaussian Filter on MNIST    
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/gan.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-1.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-1.ipynb)]
 - Basic Graph Neural Network with Edge Prediction on MNIST    
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/gan.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb)]
+- Basic Graph Neural Network with Spectral Graph Convolution on MNIST  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gnn/gnn-basic-graph-spectral-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gnn/gnn-basic-graph-spectral-1.ipynb)]
 
 ## Recurrent Neural Networks (RNNs)
 
@@ -218,10 +220,6 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/ordinal/ordinal-cnn-beckham2016-afadlite.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/ordinal/ordinal-cnn-beckham2016-afadlite.ipynb)]
 
 
-
-
-
-
 ## Tips and Tricks
 
 - Cyclical Learning Rate   
@@ -232,6 +230,11 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/tricks/gradclipping_mlp.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/tricks/gradclipping_mlp.ipynb)]
 
 
+## Transfer Learning
+
+- Transfer Learning Example (VGG16 pre-trained on ImageNet for Cifar-10)
+
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/transfer/transferlearning-vgg16-cifar10-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/transfer/transferlearning-vgg16-cifar10-1.ipynb)]
 
 ## PyTorch Workflows and Mechanics
 
